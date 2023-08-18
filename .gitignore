@@ -1,4 +1,9 @@
 # Prerequisites
+/.vs/**
+/Debug/**
+/Release/**
+/Intermediate/**
+
 *.d
 
 # Compiled Object files
