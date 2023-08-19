@@ -1,4 +1,5 @@
-#include "Sine.MIDI.Interface.h"
+#include "Sine.MIDI.Interface.In.h"
+#include "Sine.MIDI.Interface.Out.h"
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
 // Debug program: F5 or Debug > Start Debugging menu
