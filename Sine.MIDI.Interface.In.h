@@ -1,5 +1,6 @@
 #pragma once
 
+#if MIDI_INTERFACE_EXPORTS
 // Sine.MIDI.Interface.cpp : This file contains the 'main' function. Program execution begins and ends there. //
 
 #include <iostream>
@@ -81,3 +82,4 @@ int main() {
 
     return 0;
 }
+#endif
