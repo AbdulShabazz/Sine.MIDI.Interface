@@ -134,10 +134,12 @@
     <ClCompile Include="Sine.MIDI.Interface.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Sine.MIDI.Interface.h" />
+    <ClInclude Include="Sine.MIDI.Interface.In.h" />
+    <ClInclude Include="Sine.MIDI.Interface.Out.h" />
   </ItemGroup>
   <ItemGroup>
-    <Text Include="etc.txt" />
+    <Text Include="BUGFIX.txt" />
+    <Text Include="code.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
