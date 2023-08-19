@@ -20,12 +20,18 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Sine.MIDI.Interface.h">
+    <ClInclude Include="Sine.MIDI.Interface.In.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Sine.MIDI.Interface.Out.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="etc.txt">
+    <Text Include="code.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="BUGFIX.txt">
       <Filter>Source Files</Filter>
     </Text>
   </ItemGroup>
