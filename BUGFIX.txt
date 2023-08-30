@@ -1,2 +1,2 @@
 SYMP: Runtime Error: Error opening MIDI output device. Error Code : 1, Message: Undefined external error.
-SOLU:
+SOLU: Perform check in loop until MIDI output device is available.
