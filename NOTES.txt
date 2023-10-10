@@ -18,3 +18,7 @@ PAN: 0-127 (LEFT TO RIGHT)
 DELAY: 0-127 (0 = NO DELAY)
 VOLUME: 0-127 (0 = NO VOLUME)
 LOOP: TRUE/FALSE 
+
+NOTES:
+
+- Also provide a UI of a left-justified 108-key keyboard layout against a grid background for piano roll input from the user
